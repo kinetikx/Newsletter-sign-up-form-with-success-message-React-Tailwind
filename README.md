@@ -1,5 +1,5 @@
 ![Screenshot](./FotoJet.jpg)
-![Mobile Screenshot](./FotoJet(1).jpg)
+![Mobile Screenshot](./FotoJet2.jpg)
 
 ## isValidEmail(email):
  Bu yardımcı işlev, gelen e-posta parametresinin geçerli olup olmadığını kontrol eder. Geçerli bir e-posta adresi için düzgün bir biçim (ör. example@example.com) gereklidir. Geçerli bir e-posta adresi biçimi olduğunda 'true' döndürür, aksi takdirde 'false' döndürür.
